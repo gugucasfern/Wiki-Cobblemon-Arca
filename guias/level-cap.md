@@ -1,6 +1,6 @@
 # Level cap, spawns e evoluções
 
-O servidor contará com um **limite global de nível**, administrado pela equipe e elevado gradualmente conforme a progressão da comunidade. O cap começa em níveis iniciais e avança por etapas até chegar ao nível 100. A ideia é manter os Pokémon em faixas próximas no começo da jornada e evitar que a progressão individual dispare em relação ao restante do servidor.
+O servidor contará com um **limite global de nível**, administrado pela equipe e elevado gradualmente conforme a progressão da comunidade. O cap começa no nivel 15 e avança por etapas até chegar ao nível 100. A ideia é manter os Pokémon em faixas próximas no começo da jornada e evitar que a progressão individual dispare em relação ao restante do servidor.
 
 ## O que muda para você
 

@@ -16,7 +16,7 @@ Esta lista reúne os mods customizados e addons informados para o pack Arca. As 
 - **Cobblemon Armors** — acrescenta conjuntos de armadura temáticos ligados a Cobblemon, com bônus próprios de conjunto.
 - **Cobblemon Fight or Flight** — permite que Pokémon participem de combates em tempo real contra criaturas do Minecraft, usando movimentos em vez do formato tradicional por turnos em determinadas situações.
 - **Cobblemon Firework Capsules** — adiciona efeitos visuais de fogos de artifício às cápsulas de captura, personalizando a saída do Pokémon.
-- **Cobblemon Full Restore** — adiciona o item Full Restore para recuperar completamente a equipe, incluindo condições negativas, conforme as regras do item.
+- **Cobblemon Full Restore** Mod para o servidor ter backups dos pokemon dos jogadores
 - **Cobblemon Run and Bun AI** — melhora a lógica de batalha dos treinadores para que tomem decisões mais estratégicas durante os confrontos.
 - **Cobbled Armor & Tool Trims** — permite aplicar aparências inspiradas em Pokémon às armaduras e ferramentas usando trims de ferraria.
 - **Conditional Riding for Cobblemon** — permite configurar condições para montar Pokémon, como requisitos específicos para liberar a montaria.

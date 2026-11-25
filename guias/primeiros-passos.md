@@ -11,9 +11,9 @@ Ao entrar no mundo, escolha o Pokémon com que quer começar sua jornada. Pense 
 O kit é concedido quando você escolhe o inicial. Você recebe:
 
 - 1 Pokédex Vermelha, equipada na mão secundária;
-- 10 Pokébolas;
+- 10 Pokébolas
 - 10 *Oran Berries*;
-- 1 Cartão de Treinador, colocado no último espaço da barra rápida ja cadastrado na serie da arca para poder enfrentar os treinadores.
+- 1 Cartão de Treinador ja cadastrado na serie arca.
 
 Depois da escolha, explore a região, capture Pokémon para completar seu time e procure informações sobre a Série Arca e os ginásios.
 

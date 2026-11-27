@@ -1,7 +1,7 @@
 ﻿$ErrorActionPreference = 'Stop'
 $guidesPath = Join-Path $PSScriptRoot 'guias'
 $guideLinks = @(
-    @{ File = 'prism-launcher'; Label = 'Tutorial do Prism Launcher' },
+    @{ File = 'prism-launcher'; Label = 'Tutorial de instalação do modpack' },
     @{ File = 'primeiros-passos'; Label = 'Primeiros passos' },
     @{ File = 'serie-arca'; Label = 'Série Arca e ginásios' },
     @{ File = 'level-cap'; Label = 'Level cap e evoluções' },

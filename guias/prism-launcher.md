@@ -1,4 +1,4 @@
-# Tutorial do Prism Launcher
+# Tutorial de instalação do modpack
 
 Instale o Prism Launcher, conecte sua conta do Minecraft e importe o modpack da Arca. No Prism, uma **instância** é uma instalação separada do jogo, com seus próprios mods, configurações e mundos.
 

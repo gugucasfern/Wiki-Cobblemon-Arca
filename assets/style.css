@@ -24,6 +24,29 @@ html { scroll-padding-top: 68px; }
   font-size: 1rem;
 }
 
+.article #importar-o-modpack-da-arca + p > a:only-child {
+  display: inline-block;
+  max-width: 100%;
+  min-height: 44px;
+  padding: 10px 18px;
+  border-radius: 8px;
+  background: #79c8ff;
+  color: #102232;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.5;
+  text-decoration: none;
+}
+
+.article #importar-o-modpack-da-arca + p > a:only-child:hover {
+  background: #a5daff;
+}
+
+.article #importar-o-modpack-da-arca + p > a:only-child:focus-visible {
+  outline: 2px solid #a5daff;
+  outline-offset: 3px;
+}
+
 .guide-image {
   margin: 16px 0 26px;
 }

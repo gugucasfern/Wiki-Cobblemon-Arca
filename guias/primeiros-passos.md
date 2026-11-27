@@ -15,6 +15,8 @@ O kit é concedido quando você escolhe o inicial. Você recebe:
 - 10 *Oran Berries*;
 - 1 Cartão de Treinador ja cadastrado na serie arca.
 
+> **Atenção!** Você precisa manter o **Cartão de Treinador no inventário** para interagir com o sistema de treinadores e líderes de ginásio.
+
 Depois da escolha, explore a região, capture Pokémon para completar seu time e procure informações sobre a Série Arca e os ginásios.
 
 [Próximo: Série Arca e ginásios](serie-arca.html)

@@ -2,7 +2,8 @@
 
 Instale o Prism Launcher, conecte sua conta do Minecraft e importe o modpack da Arca. No Prism, uma **instância** é uma instalação separada do jogo, com seus próprios mods, configurações e mundos.
 
-## Instalar o Prism Launcher
+## Instalar o Prism Launcher(ORIGINAL)
+> **Atenção!** Link do ladrão do Prism no final da pagina.
 
 - **Windows** — Na [página oficial para Windows](https://prismlauncher.org/download/windows/), escolha **Installer (.exe)** na opção **x86-64** para PCs com processador Intel ou AMD. Em um PC Windows com processador ARM, escolha **ARM64**. Abra o instalador, avance até concluir e inicie o Prism Launcher pelo menu Iniciar.
 - **macOS** — Na [página oficial para macOS](https://prismlauncher.org/download/macos/), baixe o arquivo **Universal (.zip)**, abra-o e arraste o Prism Launcher para **Aplicativos**. Depois, abra o aplicativo por essa pasta.

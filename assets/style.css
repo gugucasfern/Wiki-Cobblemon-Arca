@@ -2,7 +2,8 @@
 
 html { scroll-padding-top: 68px; }
 
-.article #kit-inicial ~ blockquote {
+.article #kit-inicial ~ blockquote,
+.article #instalar-o-prism-launcher-original + blockquote {
   margin: 18px 0;
   padding: 12px 16px;
   border-inline-start: 4px solid #f4bb55;
@@ -10,9 +11,17 @@ html { scroll-padding-top: 68px; }
   background: #2c2315;
 }
 
-.article #kit-inicial ~ blockquote p {
+.article #kit-inicial ~ blockquote p,
+.article #instalar-o-prism-launcher-original + blockquote p {
   margin: 0;
   color: #f6deb0;
+}
+
+.article #instalar-o-prism-launcher-original + blockquote strong {
+  display: block;
+  margin-bottom: 2px;
+  color: #f4bb55;
+  font-size: 1rem;
 }
 
 .guide-image {

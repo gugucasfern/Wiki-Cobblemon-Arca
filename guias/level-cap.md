@@ -8,7 +8,7 @@ O cap é uma referência para o avanço da equipe e para a disponibilidade de Po
 
 ## Spawns naturais e pesca
 
-O pack tem um filtro destinado a impedir spawns naturais cujas faixas de nível estejam inteiramente acima do cap. A documentação local também descreve filtragem de candidatos de pesca. Na prática, isso ajuda a manter os encontros compatíveis com a etapa atual; não significa que todo encontro que possa ultrapassar o cap seja removido, pois a regra descrita filtra faixas totalmente acima dele.
+O pack tem um filtro destinado a impedir spawns naturais cujas faixas de nível estejam inteiramente acima do cap. Pokemon pescados tambem não aparecem em nivel maior que o cap. Na prática, isso ajuda a manter os encontros compatíveis com a etapa atual.
 
 Outro filtro local trata Pokémon evoluídos por nível que seriam impossíveis dentro do cap, removendo esses candidatos da seleção de spawns. Os arquivos disponíveis não confirmam quais versões desses filtros estão ativas no servidor, então esse comportamento específico deve ser validado com a equipe.
 
@@ -16,6 +16,5 @@ Outro filtro local trata Pokémon evoluídos por nível que seriam impossíveis 
 
 A progressão foi planejada para acompanhar o desenvolvimento dos Pokémon. A disponibilidade de certas formas poderosas e evoluções deve avançar junto com o cap, preservando a importância das formas básicas e intermediárias durante as primeiras etapas.
 
-O projeto local de um mod próprio descreve um bloqueio de evolução por pedras relacionado ao cap global. A configuração em uso no servidor e o comportamento exato do aviso de confirmação ainda precisam ser confirmados; até lá, siga as orientações apresentadas no jogo e pela equipe antes de confirmar uma evolução.
 
 [Próximo: Dimensões](dimensoes.html)

@@ -32,12 +32,6 @@ Mantenha o arquivo `.zip` intacto para importá-lo no Prism Launcher.
 
 ![Tela de importação do Prism Launcher com Import from zip selecionado à esquerda e o botão Browse à direita do campo de arquivo.](../assets/prism/prism-importar.png)
 
-## Instalar o Cobbleverse pelo Modrinth
-
-Para jogar o Cobbleverse base, abra **Adicionar instância (Add Instance)** e selecione **Modrinth** no menu à esquerda. Pesquise por **COBBLEVERSE** e escolha o projeto da **LUMYVERSE**. Selecione a versão no campo inferior e confirme com **OK**. Para jogar na Arca, use a versão indicada pela equipe, com os mods e as configurações do servidor. [Página oficial do Cobbleverse no Modrinth](https://modrinth.com/modpack/cobbleverse).
-
-![Aba Modrinth do Prism Launcher com a barra de pesquisa no topo e o seletor de versão no rodapé. A captura mostra outro modpack como exemplo.](../assets/prism/prism-modrinth.png)
-
 
 Capturas de tela dos colaboradores do Prism Launcher, disponíveis no [site oficial](https://prismlauncher.org/) e na [documentação de importação](https://prismlauncher.org/wiki/help-pages/Zip-import/). Clique nas imagens para ampliar.
 

@@ -8,9 +8,9 @@ O SkinRestorer permite buscar e aplicar skins usando o nome de usuário de servi
 2. Escolha uma skin no catálogo e aplique-a à sua conta Ely.by.
 3. Entre no servidor e, no chat, use o comando abaixo, trocando o exemplo pelo seu nome de usuário no Ely.by:
 
-   ```text
+
    /skin set ely.by SeuNomeNoElyBy
-   ```
+
 
 O mod procura a skin associada àquela conta e a aplica ao seu personagem. Jogadores com conta oficial não precisam fazer nada para manter a própria skin; quem usa uma conta sem skin oficial pode usar esse método.
 
@@ -22,15 +22,15 @@ O SkinRestorer aceita uma URL de imagem e envia a skin para processamento. O end
 2. Decida o modelo do personagem: `classic` para o modelo Steve, com braços mais largos, ou `slim` para o modelo Alex, com braços mais estreitos.
 3. No chat do servidor, use o comando e substitua a URL pelo link direto:
 
-   ```text
+
    /skin set web classic "https://exemplo.com/minha-skin.png"
-   ```
+
 
    Para o modelo Alex, troque `classic` por `slim`:
 
-   ```text
+
    /skin set web slim "https://exemplo.com/minha-skin.png"
-   ```
+
 
 Use aspas em torno da URL, especialmente quando ela contiver `?`, `&` ou outros caracteres. Um link que abre uma página HTML não serve: o servidor precisa conseguir baixar diretamente a imagem da skin. O recurso usa um serviço externo de processamento de skins; por isso, a URL precisa estar acessível pela internet.
 
